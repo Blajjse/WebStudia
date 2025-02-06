@@ -1,0 +1,97 @@
+:root {
+    --font-family: "Roboto", sans-serif;
+    --second-family: "Raleway", sans-serif;
+  }
+
+.a a {
+    font-family: var(--second-family);
+font-weight: 700;
+font-size: 26px;
+letter-spacing: 0.03em;
+}
+.b a {
+    width: 45px;
+    height: 16px;
+}
+.c a {
+    width: 135px;
+    height: 16px;
+}
+.d h1 {
+    font-family: var(--font-family);
+    font-weight: 900;
+    font-size: 44px;
+    line-height: 136%;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    text-align: center;
+}
+.d button {
+    width: 216px;
+    height: 50px;
+    text-align: center;
+}
+.e h3 {
+    font-family: var(--font-family);
+    font-weight: 500;
+    font-size: 16px;
+    letter-spacing: 0.03em;
+    text-align: center;
+}
+.e p {
+    font-family: var(--font-family);
+    font-weight: 400;
+    font-size: 16px;
+    letter-spacing: 0.03em;
+    text-align: center;
+}
+.f a {
+    font-family: var(--font-family);
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 171%;
+    letter-spacing: 0.03em;
+}
+.g a {
+    font-family: var(--second-family);
+    font-weight: 700;
+    font-size: 26px;
+    letter-spacing: 0.03em;
+}
+.h a {
+    width: 45px;
+    height: 16px;
+}
+.i a {
+    width: 135px;
+    height: 16px;
+}
+.aa a {
+    font-family: var(--font-family);
+    font-weight: 500;
+    font-size: 14px;
+    letter-spacing: 0.02em;
+}
+.ad button {
+    font-family: var(--font-family);
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 162%;
+    letter-spacing: 0.03em;
+    text-align: center;
+
+}
+.ab h3 {
+    font-family: var(--font-family);
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 200%;
+    letter-spacing: 0.06em;
+}
+.ac h4 {
+    font-family: var(--font-family);
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 187%;
+    letter-spacing: 0.03em;
+}
