@@ -3,28 +3,41 @@
     --second-family: "Raleway", sans-serif;
   }
 
-.a a {
+.index-logo a {
     font-family: var(--second-family);
-font-weight: 700;
-font-size: 26px;
-letter-spacing: 0.03em;
+    font-weight: 700;
+    font-size: 26px;
+    letter-spacing: 0.03em;
+    color: #2196f3;
 }
-.b a {
-    width: 45px;
-    height: 16px;
+.index-studio a {
+    font-family: var(--font-family);
+    font-weight: 500;
+    font-size: 14px;
+    letter-spacing: 0.02em;
+    color: #212121;
 }
-.c a {
-    width: 135px;
-    height: 16px;
+.index-contacts {
+    font-family: var(--font-family);
+    font-weight: 500;
+    font-size: 14px;
+    letter-spacing: 0.02em;
+    color: #757575
+}
+.portfolio-adress a {
+    font-family: var(--font-family);
+    font-weight: 500;
+    font-size: 14px;
+    letter-spacing: 0.02em;
+    color: #757575;
 }
 .d h1 {
     font-family: var(--font-family);
-    font-weight: 900;
-    font-size: 44px;
-    line-height: 136%;
-    letter-spacing: 0.06em;
+    font-weight: 700;
+    font-size: 14px;
+    letter-spacing: 0.03em;
     text-transform: uppercase;
-    text-align: center;
+    color: #212121;
 }
 .d button {
     width: 216px;
@@ -33,17 +46,19 @@ letter-spacing: 0.03em;
 }
 .e h3 {
     font-family: var(--font-family);
-    font-weight: 500;
-    font-size: 16px;
+    font-weight: 700;
+    font-size: 14px;
     letter-spacing: 0.03em;
-    text-align: center;
+    text-transform: uppercase;
+    color: #212121;
 }
 .e p {
     font-family: var(--font-family);
     font-weight: 400;
-    font-size: 16px;
+    font-size: 14px;
+    line-height: 171%;
     letter-spacing: 0.03em;
-    text-align: center;
+    color: #757575;
 }
 .f a {
     font-family: var(--font-family);
@@ -52,27 +67,29 @@ letter-spacing: 0.03em;
     line-height: 171%;
     letter-spacing: 0.03em;
 }
-.g a {
+.portfolio-logo a {
     font-family: var(--second-family);
     font-weight: 700;
     font-size: 26px;
     letter-spacing: 0.03em;
+    color: #2196f3;
 }
-.h a {
+.portfolio a {
     width: 45px;
     height: 16px;
 }
-.i a {
+.portfolio-mail a {
     width: 135px;
     height: 16px;
 }
-.aa a {
+.portfolio-number a {
     font-family: var(--font-family);
     font-weight: 500;
     font-size: 14px;
     letter-spacing: 0.02em;
+    color: #757575;
 }
-.ad button {
+.portfolio-button button {
     font-family: var(--font-family);
     font-weight: 500;
     font-size: 16px;
@@ -81,17 +98,26 @@ letter-spacing: 0.03em;
     text-align: center;
 
 }
-.ab h3 {
+.portfolio-subtitle h3 {
     font-family: var(--font-family);
     font-weight: 700;
     font-size: 18px;
     line-height: 200%;
     letter-spacing: 0.06em;
+    color: #212121;
 }
-.ac h4 {
+.portfolio-discription h4 {
     font-family: var(--font-family);
     font-weight: 400;
     font-size: 16px;
     line-height: 187%;
     letter-spacing: 0.03em;
+    color: #757575;
+}
+.portfolio-footer {
+    font-family: var(--second-family);
+    font-weight: 700;
+    font-size: 26px;
+    letter-spacing: 0.03em;
+    color: #2196f3;
 }
